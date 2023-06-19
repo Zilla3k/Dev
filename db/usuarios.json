@@ -1,0 +1,52 @@
+[
+  {
+    "id": "648f82b56ab57704321fbe28",
+    "guid": "86dc6832-906f-4b96-922f-5d76462ea2be",
+    "isActive": false,
+    "password": "$2a$10$dtz0f71Fac0EBoliSR1/w.OOqjlMw8AB1csRZrwV30KBJMHkIwB8S",
+    "name": "Helen Harvey",
+    "email": "helenharvey@comdom.com",
+    "createdAt": "2019-04-05T02:08:30 +03:00",
+    "updatedAt": "2021-12-03T02:28:51 +03:00"
+  },
+  {
+    "id": "648f82b5d7b8a2e02d19adb9",
+    "guid": "2752df29-4b14-4504-b008-ca5fe32b4565",
+    "isActive": true,
+    "password": "$2a$10$dtz0f71Fac0EBoliSR1/w.OOqjlMw8AB1csRZrwV30KBJMHkIwB8S",
+    "name": "Latisha Patterson",
+    "email": "latishapatterson@comdom.com",
+    "createdAt": "2013-04-18T05:03:36 +03:00",
+    "updatedAt": "2017-02-02T12:53:34 +02:00"
+  },
+  {
+    "id": "648f82b53ca3e68f5bb0a237",
+    "guid": "5646e029-2846-4fd1-a753-143c7bfc3e60",
+    "isActive": true,
+    "password": "$2a$10$dtz0f71Fac0EBoliSR1/w.OOqjlMw8AB1csRZrwV30KBJMHkIwB8S",
+    "name": "Porter Jones",
+    "email": "porterjones@comdom.com",
+    "createdAt": "2018-07-17T12:42:42 +03:00",
+    "updatedAt": "2019-12-10T06:03:41 +03:00"
+  },
+  {
+    "id": "648f82b533af840e11c68f5b",
+    "guid": "dc35fc04-0237-49d0-be38-225256dd686d",
+    "isActive": false,
+    "password": "$2a$10$dtz0f71Fac0EBoliSR1/w.OOqjlMw8AB1csRZrwV30KBJMHkIwB8S",
+    "name": "Tammi Leblanc",
+    "email": "tammileblanc@comdom.com",
+    "createdAt": "2016-12-15T12:49:42 +02:00",
+    "updatedAt": "2017-10-17T11:01:55 +02:00"
+  },
+  {
+    "id": "648f82b54e0cbe84832090fa",
+    "guid": "e97643a6-f7e6-41a6-8ba6-39d2a795cdee",
+    "isActive": false,
+    "password": "$2a$10$dtz0f71Fac0EBoliSR1/w.OOqjlMw8AB1csRZrwV30KBJMHkIwB8S",
+    "name": "Addie Rojas",
+    "email": "addierojas@comdom.com",
+    "createdAt": "2023-04-18T10:50:15 +03:00",
+    "updatedAt": "2019-10-07T09:17:28 +03:00"
+  }
+]
