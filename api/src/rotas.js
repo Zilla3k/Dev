@@ -1,5 +1,5 @@
 import env from './env.js'
-import { LoginController } from './controllers/login'
+import { LoginController } from './controllers/login.js' // faltante .js
 import { Jwt } from './utils/jwt.js'
 import { Encrypt } from './utils/encrypt.js'
 import BancoDeDados from './db/banco-de-dados.js'
