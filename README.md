@@ -6,11 +6,11 @@ A empresa TechService está desenvolvendo um sistema Sass, e para a próxima Spr
 
 ### #20231AH Api não está inicializando
 
-Por algum motivo a api não está funcionando, toda vez que inicia, ela crash
+[X] Por algum motivo a api não está funcionando, toda vez que inicia, ela crash
 
 ### #20232FH Tela de Login não está funciando
 
-Até o dia de ontem o login estava funcionando, mas por algum motivo está dando erro 400 no console.
+[X] Até o dia de ontem o login estava funcionando, mas por algum motivo está dando erro 400 no console.
 
 ## Fix
 
