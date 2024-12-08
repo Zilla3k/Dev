@@ -5,6 +5,9 @@ import bodyParser from 'body-parser'
 import env from './env.js'
 import configRotas from './rotas.js'
 
+// Cross-Origin Request Blocked
+import cors from 'cors'
+
 dotenv.config()
 BancoDeDados
     .init()
@@ -14,6 +17,7 @@ BancoDeDados
         const router = Router()
         const porta = env.PORTA
         const app = express()
+        app.use(cors({origin: 'http://localhost:5173'}))
         app.use(bodyParser.json())
         app.use(BASE_API, router)
         configRotas(router)
