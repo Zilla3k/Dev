@@ -24,7 +24,7 @@ A empresa TechService está desenvolvendo um sistema Sass, e para a próxima Spr
 
 Deve criar na api uma rota GET para listar todos os itens com filtros, como data de criação, nome, preço e afins.
 
-- A rota deve ser protegida. Apenas usuários autenticados podem obter os itens.
+[✔] A rota deve ser protegida. Apenas usuários autenticados podem obter os itens.
 
 ### #20235FF: Tela para listar produtos
 
